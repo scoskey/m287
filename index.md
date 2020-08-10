@@ -4,7 +4,7 @@
 
 Meeting times: M,W from 1:30&ndash;2:40pm  
 Textbook: Edward Scheinerman, *Mathematics: a discrete introduction*, 3rd edition (recommended)  
-Homework: [Weekly assignments](homework)
+Homework: [Weekly assignments](homework)  
 Contact: `scoskey@boisestate.edu`  
 Office hours: TBA
 
