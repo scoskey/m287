@@ -37,7 +37,7 @@ Math 287 is a successor to Math 187/189 and we will build on what you have learn
 * Midterm assessment 20%
 * Final assessment 20%
 * Activities 20%
-* Homework 40%
+* Weekly homework and other assignments 40%
 
 ## Course format
 
