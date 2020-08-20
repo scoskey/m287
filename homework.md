@@ -7,6 +7,8 @@ header-includes: |
 
 # Math 287 homework
 
+[Submit with gradescope](https://www.gradescope.com/courses/159026)
+
 ## Week 1 (Due Thursday, September 3)
 
 For background, read section 22 of Scheinerman's book, and watch [Khan's video](https://youtu.be/wblW_M_HVQ8) on induction. Then use induction to prove that the following are true for all natural numbers $n$.
