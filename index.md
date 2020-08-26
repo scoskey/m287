@@ -44,15 +44,15 @@ Your grade will be based on three areas.
 
 ### Activities 10%
 
-To earn points for activities, you must either participate actively in the remote session, or turn in your completed activity via Gradescope. I may collect and give feedback on some activities. Please keep your completed activities in a notebook.
+To earn points for activities, you must either participate actively in the remote session, or turn in your activity via Gradescope. Participating actively may include asking math questions, answering math questions, doing the same in the chat, and even just raising your hand several times. If you do not receive credit for participation, either remind me that you participated or else submit your activity showing substantial effort via Gradescope. I may also collect some activities to gauge the class or provide feedback. Please keep your completed activities for study purposes.
 
 ### Homework 50%
 
-I will collect homework assignments weekly via Gradescope. I will check your work for completeness, and spot-grade certain problems for both correcteness and mathematical style. You are encouraged to collaborate with your peers, you are welcome to use online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+I will collect homework assignments weekly via Gradescope. I will check your work for completeness, and grade some problems (my choice) for both correcteness and mathematical style. You are encouraged to collaborate with your peers, you are welcome to use online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
 ### Assessments 20% x2
 
-Assessments will occur during the 8th week and finals week of the class. The majority of each assessment will consist of a take-home exam. I may supplement the assessments with a live remote component.
+Assessments will occur during the 8th week and finals week of the class. The majority of each assessment will consist of a take-home exam. I may supplement the assessments with a real-time remote component.
 
 ## Disclaimer
 
