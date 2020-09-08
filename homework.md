@@ -9,6 +9,22 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+## Week 3 (due Thursday, September 17)
+
+1. (Scheinerman 24.23)  
+  * Let $f(x)=|x|$ and $X=\set{-1,0,1,2}$. Find $f(X)$.
+  * Let $f(x)=\sin(x)$ and $X=[0,\pi]$. Find $f(X)$.
+  * Let $f(x)=2^x$ and $X=[-1,1]$. Find $f(X)$.
+  * Let $f(x)=3x-1$ and $X=\set{1}$. Find $f(X)$. Compare the answer with $f(1)$.
+  * If $A$ is the domain of $f$, what is another name for $f(A)$?
+2. (Scheinerman 24.24)  
+  * Let $f(x)=|x|$ and $Y=\set{1,2,3}$. Find $f^{-1}(Y)$.
+  * Let $f(x)=x^2$ and $Y=[1,2]$. Find $f^{-1}(Y)$.
+  * Let $f(x)=1/(1+x^2)$ and $Y=\set{1/2}$. Find $f^{-1}(Y)$.
+  * Let $f(x)=1/(1+x^2)$ and $Y=\set{-1/2}$. Find $f^{-1}(Y)$.
+3. Let $f\colon A\to B$ be a function and $Y\subset B$. Prove that $f(f^{-1}(Y))=Y$.
+4. Let $f\colon A\to B$ be a function and $X\subset A$. Prove that $f^{-1}(f(X))\supset X$. Give an example where equality is true. Give an example where equality is not true. [Hint: use the old favorite $f(x)=x^2$ and $X=(2,3)$.]
+
 ## Week 2 (due Thursday, September 10)
 
 1. Use induction to prove the following: If $A$ is a set of size $n$ then $P(A)$ is a set of size $2^n$.
