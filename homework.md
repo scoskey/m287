@@ -12,13 +12,13 @@ header-includes: |
 ## Week 3 (due Thursday, September 17)
 
 1. (Scheinerman 24.23)  
-  * Let $f(x)=|x|$ and $X=\set{-1,0,1,2}$. Find $f(X)$.
+  * Let $f(x)=\abs{x}$ and $X=\set{-1,0,1,2}$. Find $f(X)$.
   * Let $f(x)=\sin(x)$ and $X=[0,\pi]$. Find $f(X)$.
   * Let $f(x)=2^x$ and $X=[-1,1]$. Find $f(X)$.
   * Let $f(x)=3x-1$ and $X=\set{1}$. Find $f(X)$. Compare the answer with $f(1)$.
   * If $A$ is the domain of $f$, what is another name for $f(A)$?
 2. (Scheinerman 24.24)  
-  * Let $f(x)=|x|$ and $Y=\set{1,2,3}$. Find $f^{-1}(Y)$.
+  * Let $f(x)=\abs{x}$ and $Y=\set{1,2,3}$. Find $f^{-1}(Y)$.
   * Let $f(x)=x^2$ and $Y=[1,2]$. Find $f^{-1}(Y)$.
   * Let $f(x)=1/(1+x^2)$ and $Y=\set{1/2}$. Find $f^{-1}(Y)$.
   * Let $f(x)=1/(1+x^2)$ and $Y=\set{-1/2}$. Find $f^{-1}(Y)$.
