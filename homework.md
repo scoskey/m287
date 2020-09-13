@@ -22,7 +22,7 @@ header-includes: |
   * Let $f(x)=x^2$ and $Y=[1,2]$. Find $f^{-1}(Y)$.
   * Let $f(x)=1/(1+x^2)$ and $Y=\set{1/2}$. Find $f^{-1}(Y)$.
   * Let $f(x)=1/(1+x^2)$ and $Y=\set{-1/2}$. Find $f^{-1}(Y)$.
-3. Let $f\colon A\to B$ be a function and $Y\subset B$. Prove that $f(f^{-1}(Y))=Y$.
+3. Let $f\colon A\to B$ be a surjective function and $Y\subset B$. Prove that $f(f^{-1}(Y))=Y$. [**Note** Updated to add the surjective hypothesis.]
 4. Let $f\colon A\to B$ be a function and $X\subset A$. Prove that $f^{-1}(f(X))\supset X$. Give an example where equality is true. Give an example where equality is not true. [Hint: use the old favorite $f(x)=x^2$ and $X=(2,3)$.]
 
 ## Week 2 (due Thursday, September 10)
