@@ -9,6 +9,10 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+## Week 4 (due Thursday, September 24)
+
+1. Coming soon from Scheinerman, section 27.
+
 ## Week 3 (due Thursday, September 17)
 
 1. (Scheinerman 24.23)  
