@@ -11,7 +11,20 @@ header-includes: |
 
 ## Week 4 (due Thursday, September 24)
 
-1. Coming soon from Scheinerman, section 27.
+1. (Scheinerman 27.2) Write the following permutations in disjoint cycle notation.  
+  * $\sigma=\begin{bmatrix}1&2&3&4&4&6\\\\2&4&6&1&3&5\end{bmatrix}$
+  * $\pi=\begin{bmatrix}1&2&3&4&4&6\\\\2&3&4&5&6&1\end{bmatrix}$
+  * $\pi^2$
+  * $\pi^{-1}$
+  * The identity of $S\_5$
+  * $(1,2)\circ(2,3)\circ(3,4)\circ(4,5)\circ(5,1)$
+  * (skip part g)
+2. (Scheinerman 27.7 modified) Suppose that $\sigma,\tau$ are transpotitions, that is, they are $2$-cycles. When is it true that $\sigma\circ\tau=\tau\circ\sigma$? Prove your answer.
+3. (Scheinerman 27.13) Let $\pi=(1,2)(3,4,5,6,7)(8,9,10,11)(12)\in S\_{12}$. What is the least $k$ such that $\pi^k=()$? Generalize your method to answer the question: if $\pi$ consists of cycles of length $n\_1,\ldots,n\_t$, then what is the least $k$ such that $\pi^k=()$?
+4. (Scheinerman 27.15 and 16)  
+  * Prove that if $\pi,\sigma\in S\_n$ and $\pi\circ\sigma=\sigma$, then $\pi=$ the identity.
+  * Prove that if $\pi,\sigma,\tau\in S\_n$ and $\pi\circ\sigma=\pi\circ\tau$, then $\sigma=\tau$.
+5. Complete Activity 4, page 4. Find all eight permutations of $\set{1,2,3,4}$ that preserve the square. Write them in cycle notation. Give them short descriptive names. Write an $8\times8$ multiplication table for this set.
 
 ## Week 3 (due Thursday, September 17)
 
