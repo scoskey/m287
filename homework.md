@@ -12,8 +12,8 @@ header-includes: |
 ## Week 4 (due Thursday, September 24)
 
 1. (Scheinerman 27.2) Write the following permutations in disjoint cycle notation.  
-  * $\sigma=\begin{bmatrix}1&2&3&4&4&6\\\\2&4&6&1&3&5\end{bmatrix}$
-  * $\pi=\begin{bmatrix}1&2&3&4&4&6\\\\2&3&4&5&6&1\end{bmatrix}$
+  * $\sigma=\begin{bmatrix}1&2&3&4&5&6\\\\2&4&6&1&3&5\end{bmatrix}$
+  * $\pi=\begin{bmatrix}1&2&3&4&5&6\\\\2&3&4&5&6&1\end{bmatrix}$
   * $\pi^2$
   * $\pi^{-1}$
   * The identity of $S\_5$
