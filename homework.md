@@ -9,6 +9,10 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+## Week 5 (due Thursday, October 1)
+
+1. TBA from Scheinerman 37
+
 ## Week 4 (due Thursday, September 24)
 
 1. (Scheinerman 27.2) Write the following permutations in disjoint cycle notation.  
