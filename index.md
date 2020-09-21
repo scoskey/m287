@@ -34,7 +34,7 @@ Math 287 is a successor to Math 187/189 and we will build on what you have learn
 
 ### Course format
 
-Materials for each week will be posted shortly before the week begins (though some items may appear at the beginning of the week too). The materials will typically include reading assignments, video lectures, an activity assignment, and a graded homework assignment.
+Materials for each week will be posted at the end of the previous week and the beginning of the week. The materials will typically include reading assignments and video lectures (posted Thursday--Saturday of the previous week), an activity assignment (posted before Monday), and a graded homework assignment (posted by Monday night).
 
 Remote class sessions will be held every Monday and Wednesday. During these sessions we will work together to explore and learn from the week's activity, and then interactively discuss the material and homework. The two class sessions will therefore be similar, and I strongly encourage you attend at least one of these sessions.
 
