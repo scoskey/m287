@@ -44,11 +44,11 @@ Your grade will be based on three areas.
 
 ### Activities 10%
 
-To earn points for activities, you must either participate actively in the remote session, or turn in your activity via Gradescope. Participating actively may include asking math questions, answering math questions, doing the same in the chat, and even just raising your hand several times. If you do not receive credit for participation, either remind me that you participated or else submit your activity showing substantial effort via Gradescope. I may also collect some activities to gauge the class or provide feedback. Please keep your completed activities for study purposes.
+To earn points for activities, you must either participate actively in the remote session, or turn in your activity via Gradescope. Participating actively may include asking math questions, answering math questions, doing the same in the chat, and even just raising your hand several times. If you do not receive credit for participation, submit your activity showing substantial effort via Gradescope (Friday night of the same week). I may also collect some activities to gauge the class or provide feedback. Please keep your completed activities for study purposes.
 
 ### Homework 50%
 
-I will collect homework assignments weekly via Gradescope. I will check your work for completeness, and grade some problems (my choice) for both correcteness and mathematical style. You are encouraged to collaborate with your peers, you are welcome to use online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+I will collect homework assignments weekly via Gradescope (Thursday night of the following week). Most homework exercises will be graded for both correcteness and mathematical style. Some will be graded for completeness only. You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
 ### Assessments 20% x2
 
