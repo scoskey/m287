@@ -14,7 +14,7 @@ header-includes: |
 1. (Scheinerman 37.2) Solve the equations in the specified $\mathbb Z\_n$.  
   * $3x=4$ in $\mathbb Z\_{11}$
   * $4x-8=9$ in $\mathbb Z\_{11}$
-  * 3x+8=1$ in $\mathbb Z\_{10}$
+  * $3x+8=1$ in $\mathbb Z\_{10}$
   * This is just a bonus challenge: $342x+448=73$ in $\mathbb Z\_{1003}$
 2. (Scheinerman 37.10) In usual arithmetic, $ab=0$ if and only if $a=0$ or $b=0$. For which $n$ is this statement true in $\mathbb Z\_n$? Prove your answer.
 3. Suppose that $a,b\in\mathbb Z\_n\setminus\{0\}$, and $ab=0$. Prove that $a$ does not have an inverse in $\mathbb Z\_n$.
