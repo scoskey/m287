@@ -9,6 +9,10 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+## Week 6 (due Thursday, October 8)
+
+1. TBA from Scheinerman, section 40
+
 ## Week 5 (due Thursday, October 1)
 
 1. (Scheinerman 37.2) Solve the equations in the specified $\mathbb Z\_n$.  
