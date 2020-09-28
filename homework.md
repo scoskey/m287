@@ -21,7 +21,7 @@ header-includes: |
   * $3x+8=1$ in $\mathbb Z\_{10}$
   * This is just a bonus challenge: $342x+448=73$ in $\mathbb Z\_{1003}$
 2. (Scheinerman 37.10) In usual arithmetic, $ab=0$ if and only if $a=0$ or $b=0$. For which $n$ is this statement true in $\mathbb Z\_n$? Prove your answer.
-3. Suppose that $a,b\in\mathbb Z\_n\setminus\{0\}$, and $ab=0$. Prove that $a$ does not have an inverse in $\mathbb Z\_n$.
+3. Suppose that $a,b\in\mathbb Z\_n\setminus\set{0}$, and $ab=0$. Prove that $a$ does not have an inverse in $\mathbb Z\_n$.
 4. (Scheinerman 37.13) Working in $\mathbb Z\_n$, prove that $n-1$ is its own inverse.
 5. Let's do some $\LaTeX$. Write a practice document of 1-2 pages on Overleaf. Your writing doesn't have to make any sense, Just show me you can use some of the common features of $\LaTeX$. You can copy some of the text and equations from a textbook or article that you find online! Make sure to include at least one of each of the following:  
   * A title and author
