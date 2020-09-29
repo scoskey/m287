@@ -11,7 +11,13 @@ header-includes: |
 
 ## Week 6 (due Thursday, October 8)
 
-1. TBA from Scheinerman, section 40
+1. (Scheinerman 40.2) Define an operation on $\mathbb R$ by $x\cdot y=x+y-xy$. Is it closed? Associative? Commutative? Is there an identity? Inverses? Is it a group?
+2. (Scheinerman 40.9) Show that if $G$ is a group then $(g^{-1})^{-1}=g$.
+3. (Scheinerman 40.15) Show that if $G$ is a group then the function $f(g)=g^{-1}$ is a bijection of $G$ with itself.
+4. (Scheinerman 40.16) Show that if $G$ is a group then in the multiplication table for $G$, every element of $G$ appears in every row and every column exactly once.  
+   Give a counterexample showing that there can be such a table which doesn't arise from a group (and prove it doesn't).
+5. (Scheinerman 40.17) Show that if $G$ is a group with $\cdot$ then $(gh)^{-1}=h^{-1}\cdot g^{-1}$.
+6. (Scheinerman 40.20) Use $\LaTeX$ to write your solution to this question. Let $G$ be a group of even size. Show that there exists a non-identity element $g$ such that $g^{-1}=g$.
 
 ## Week 5 (due Thursday, October 1)
 
