@@ -9,6 +9,10 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+## Week 7 (due Thursday, October 22)
+
+1. TBA study materials from recent Scheinerman sections
+
 ## Week 6 (due Thursday, October 8)
 
 1. (Scheinerman 40.2) Define an operation on $\mathbb R$ by $x\cdot y=x+y-xy$. Is it closed? Associative? Commutative? Is there an identity? Inverses? Is it a group?
