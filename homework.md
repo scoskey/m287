@@ -13,9 +13,9 @@ header-includes: |
 
 (graded for completeness only)
 
-1. (Schinerman 42.1,2,8 modified) Find all subgroups of $\Z\_6$, of $\Z\_9$, and of $\Z_{10}$.
+1. (Schinerman 42.1,2,8 modified) Find all subgroups of $\mathbb Z\_6$, of $\mathbb Z\_9$, and of $\mathbb Z_{10}$.
 2. Find all subgroups of $S\_3$.
-3. (Scheinerman 43.1,2 modified) For all $a\in\Z\_{13}$ calculate $a^{13}$. For all $a\in\Z_\{15}^*$ calculate $a^{15}$.
+3. (Scheinerman 43.1,2 modified) For all $a\in\mathbb Z\_{13}$ calculate $a^{13}$. For all $a\in\mathbb Z_\{15}^*$ calculate $a^{15}$.
 4. (Scheinerman 43.3,4 modified) Without a calculator, what is $3^{102}\pmod{101}$? Without a calculator, what is $2^{1,000,000}\pmod{101}$?
 
 ## Week 6 (due Thursday, October 8)
