@@ -9,9 +9,14 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
-## Week 7 (due Thursday, October 22)
+## Week 7 (due Monday, October 12)
 
-1. TBA study materials from recent Scheinerman sections
+(graded for completeness only)
+
+1. (Schinerman 42.1,2,8 modified) Find all subgroups of $\Z\_6$, of $\Z\_9$, and of $\Z_{10}$.
+2. Find all subgroups of $S\_3$.
+3. (Scheinerman 43.1,2 modified) For all $a\in\Z\_{13}$ calculate $a^{13}$. For all $a\in\Z_\{15}^*$ calculate $a^{15}$.
+4. (Scheinerman 43.3,4 modified) Without a calculator, what is $3^{102}\pmod{101}$? Without a calculator, what is $2^{1,000,000}\pmod{101}$?
 
 ## Week 6 (due Thursday, October 8)
 
