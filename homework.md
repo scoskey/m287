@@ -9,7 +9,7 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
-## Week 7 (due Monday, October 12)
+## Week 7 (due Monday, October 12 at noon)
 
 (graded for completeness only)
 
