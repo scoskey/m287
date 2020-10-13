@@ -9,6 +9,10 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+## Week 8
+
+(midterm week, no homework)
+
 ## Week 7 (due Monday, October 12 at noon)
 
 (graded for completeness only)
