@@ -9,6 +9,10 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+## Week 9 (due Thursday, October 29)
+
+1. TBA from Scheinerman 17,18
+
 ## Week 8
 
 (midterm week, no homework)
