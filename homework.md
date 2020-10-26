@@ -9,6 +9,8 @@ header-includes: |
 
 [Submit with gradescope](https://www.gradescope.com/courses/159026)
 
+[Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
+
 ## Week 9 (due Thursday, October 29)
 
 1. (Scheinerman 17.5 modified) A group of $p$-many people attend an outdoor party with adequate social distancing measures. Everyone air-hugs everyone else. How many air-hugs were there? Explain your answer using balls and urns.
