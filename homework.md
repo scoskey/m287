@@ -11,13 +11,17 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 10 (due Thursday, November 5)
+
+1. TBA about Stirling numbers
+
 ## Week 9 (due Thursday, October 29)
 
 1. (Scheinerman 17.5 modified) A group of $p$-many people attend an outdoor party with adequate social distancing measures. Everyone air-hugs everyone else. How many air-hugs were there? Explain your answer using balls and urns.
 2. (Scheinerman 17.14 modified) You have a set $A$ with $n$-many elements. How many $k$-element subsets $B\subset A$ are there? How many subsets $B\subset A$ are there in total? Explain your answer. Use the above reasoning to give a proof of the equation: $\sum\_{k=0}^n\binom{n}{k}=2^n$.
 3. (Scheinerman 17.16 modified) How many ways are there to choose a committee of $k$ people from a pool of $n$ people, with one committee member as the committee chair? Explain why the answer is $k\binom{n}{k}$. Explain why the answer is $n\binom{n-1}{k-1}$. Use the above reasoning to conclude that $k\binom{n}{k}=n\binom{n-1}{k-1}$.
 4. A monomial is a product of variables to powers. The total degree of the monomial is the sum of the powers. For example $x^2y^3z^4$ is a monomial in three variables with total degree $9$. How many monomials are there with $v$-many variables and total degree $d$? Explain your answer using balls and urns.
-5. In our data about $\left(\binom{n}{k}\right)$ we saw that $\left(\binom{n}{k}\right)=\left(\binom{n-1}{k}\right)+\left(\binom{n}{k-1}\right)$. Use ball/urn reasoning to explain why this is the case. Hint: Given a configuration (A) of $n$ labelled urns with $k$ balls in them, if the last urn is empty then delete that urn to obtain a new configuration (B), and if the last urn is not empty then delete one of the balls in it to obtain a new configuration (C). Argue that there is a bijection between configurations of type (A) and the union of the configurations of types (B) and (C).
+5. In our data about $\left(\binom{n}{k}\right)$ we observed that $\left(\binom{n}{k}\right)=\left(\binom{n-1}{k}\right)+\left(\binom{n}{k-1}\right)$. Use ball/urn reasoning to explain why this is the case. Hint: Consider all the configurations of $k$ unlabeled balls in $n$ labeled urns. In how many is the last urn empty, and why? In how many is the last urn nonempty, and why? The total number is the sum of the these two cases.
 6. (Scheinerman 18.14 modified) How many ways are there to put $k$-many balls in $n$-many urns if we assume that every urn is used at least once? Prove that the answer is $\left(\binom{n}{k-n}\right)$.
 
 ## Week 8
