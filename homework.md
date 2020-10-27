@@ -13,11 +13,12 @@ header-includes: |
 
 ## Week 10 (due Thursday, November 5)
 
-1. Recall that $SS(k,2)$ is the number of ways to put $k$ labeled balls in $n$ unlabeled urns. Prove that $SS(k,2)=2^{k-1}$.
-2. Recall that $S(k,2)$ is the number of ways to put $k$ labeled balls in $n$ unlabeled urns if we must use every urn at least once. Prove that $S(k,2)=2^{k-1}-1$.
-3. Prove that $S(k,k-1)=\binom{k}{2}$.
-4. Prove the that $S(k,n)$ satisfies the recurrence relation $S(k,n)=S(k-1,n-1)+n\cddot S(k-1,n)$.
-5. ...tba
+1. (Scheinerman 18.11) Prove that $\left(\binom{2a}{a}\right)=\left(\binom{a}{2a}\right)$. (Brownie points for a combinatorial proof.)
+2. Recall that $SS(k,2)$ is the number of ways to put $k$ labeled balls in $n$ unlabeled urns. Prove that $SS(k,2)=2^{k-1}$.
+3. Recall that $S(k,2)$ is the number of ways to put $k$ labeled balls in $n$ unlabeled urns if we must use every urn at least once. Prove that $S(k,2)=2^{k-1}-1$.
+4. Prove that $S(k,k-1)=\binom{k}{2}$.
+5. Prove the that $S(k,n)$ satisfies the recurrence relation $S(k,n)=S(k-1,n-1)+n\cdot S(k-1,n)$.
+6. Start working on your Twelvefold Way summary packet. It will be due next week!
 
 ## Week 9 (due Thursday, October 29)
 
