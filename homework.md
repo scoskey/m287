@@ -11,6 +11,10 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 11 (due Thursday, November 12)
+
+1. Complete your Twelvefold Way summary packet.
+
 ## Week 10 (due Thursday, November 5)
 
 1. (Scheinerman 18.11) Prove that $\left(\binom{2a}{a}\right)=2\left(\binom{a}{2a}\right)$. (Brownie points for a combinatorial proof.)
