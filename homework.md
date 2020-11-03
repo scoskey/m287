@@ -13,7 +13,7 @@ header-includes: |
 
 ## Week 11 (due Thursday, November 12)
 
-1. Complete your Twelvefold Way summary packet.
+1. Complete your Twelvefold Way notebook.
 
 ## Week 10 (due Thursday, November 5)
 
