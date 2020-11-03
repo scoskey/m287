@@ -13,7 +13,7 @@ header-includes: |
 
 ## Week 11 (due Thursday, November 12)
 
-1. Complete your Twelvefold Way notebook.
+1. Complete the Twelvefold Way notebook (you can find it in blackboard with the blank activities).
 
 ## Week 10 (due Thursday, November 5)
 
