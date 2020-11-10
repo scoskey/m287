@@ -11,6 +11,15 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 12 (due Thursday, November 19)
+
+Please prepare this assignment using LaTeX. Consider using the template above.
+
+1. Prove or give a counterexample: $|x+c|-c=|x|$
+2. Prove or give a counterexample: $|x|\lt|y|\iff x^2\lt y^2$
+3. Prove or give a counterexample: $|x+y|\geq||x|-|y||$
+4. tba...
+
 ## Week 11 (due Thursday, November 12)
 
 1. Complete the Twelvefold Way notebook (you can find it in blackboard with the blank activities).
