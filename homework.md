@@ -15,9 +15,9 @@ header-includes: |
 
 Please prepare this assignment using LaTeX. Consider using the template above.
 
-1. Prove or give a counterexample: $|x+c|-c=|x|$
-2. Prove or give a counterexample: $|x|\lt|y|\iff x^2\lt y^2$
-3. Prove or give a counterexample: $|x+y|\geq||x|-|y||$
+1. Prove or give a counterexample: $\abs{x+c}-c=\abs{x}$
+2. Prove or give a counterexample: $\abs{x}\lt\abs{y}\iff x^2\lt y^2$
+3. Prove or give a counterexample: $\abs{x+y}\geq\abs{\abs{x}-\abs{y}}$
 4. Write the definitions of: $S$ is bounded above, $S$ is bounded below, $S$ is bounded. Show that if $S$ is bounded above and bounded below, then $S$ is bounded.
 5. Suppose that the maximum element of $S$ is $b$. Prove that the supremum of $S$ is $b$.
 6. Suppose the supremum of $S$ is $10$. Show that for all $x\lt 10$, there exists $s\in S$ such that $x\lt s$.
