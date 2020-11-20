@@ -11,6 +11,17 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 13 (due Thursday, December 3)
+
+1. Use the $\epsilon$ characterization of supremum to show that the set $S=\set{x\mid x^2\lt9}$ has the supremum $b=3$.
+2. For each sequence $a\_n$, proposed limit $L$, and given tolerance $\epsilon$, find a suitable $N$ that makes the definition true.  
+  * $a\_n=\frac{1}{\ln(n)}$, $L=0$, $\epsilon=0.1$
+  * $a\_n=\frac{n}{2n+1}$, $L=1/2$, $\epsilon=0.01$
+  * $a\_n=\frac{n}{2n+1}$, $L=1/2$, $\epsilon=0.001$
+3. Prove that the limit of the sequence $a\_n=\frac{2n+1}{5n+4}$ is $L=\frac25$.
+4. Show that the following statement is false by providing a counterexample: If $a\_n$ is bounded, then $a\_n$ has a limit.
+5. Prove that if $a\_n$ has a limit, then $a\_n$ is bounded. Hint: Apply the definition of limit to $\epsilon=1$. Then argue that the sequence consists of a finite initial part, plus a bounded tail part.
+
 ## Week 12 (due Thursday, November 19)
 
 Please prepare this assignment using LaTeX. Consider using the template above.
