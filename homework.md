@@ -13,6 +13,8 @@ header-includes: |
 
 ## Week 13 (due Thursday, December 3)
 
+Please prepare this assignment using LaTeX. Consider using the template above.
+
 1. Use the $\epsilon$ characterization of supremum to show that the set $S=\set{x\mid x^2\lt9}$ has the supremum $b=3$.
 2. For each sequence $a\_n$, proposed limit $L$, and given tolerance $\epsilon$, find a suitable $N$ that makes the definition true.  
   * $a\_n=\frac{1}{\ln(n)}$, $L=0$, $\epsilon=0.1$
