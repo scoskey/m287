@@ -11,6 +11,12 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 14 (due Thursday, December 10)
+
+Please prepare this assignment using LaTeX. Consider using the template above.
+
+1. TBA
+
 ## Week 13 (due Thursday, December 3)
 
 Please prepare this assignment using LaTeX. Consider using the template above.
