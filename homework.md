@@ -17,10 +17,12 @@ Please prepare this assignment using LaTeX. Consider using the template above.
 
 1. Prove that $\lim(ca\_n)=c(\lim a\_n)$.
 2. Calculate the limits using the algebraic laws for limits.
-  * $\lim \frac{15n^2-1}{1+2n+5n^2}$
-  * $\lim \frac{\sqrt{9n^5}+\sqrt{14n^3}+\sqrt{6n}}{\sqrt{25n^5}+\sqrt{12n^3}+\sqrt{5n}}$
+  * $\lim \frac{15n^2-1}{1+2n+5n^2}$  
+  &nbsp;
+  * $\lim \frac{\sqrt{9n^5}+\sqrt{14n^3}+\sqrt{6n}}{\sqrt{25n^5}+\sqrt{12n^3}+\sqrt{5n}}$  
+  &nbsp;
   * $\lim \frac{(4n^3+3n^2+2n+1)^{120}}{(3n^2+2n+1)^{72}}$
-3. Prove that limits are unique, that is, if $L\neq M$ then $\lim a\_n=L$ and $\lim a\_n=M$ cannot both be true.
+3. Prove that limits are unique, that is, if $\lim a\_n=L$ and $\lim a\_n=M$ then $L=M$.
 4. Prove that if $a\_n$ is bounded (above) by $b$, and $\lim a\_n$ exists, then $\lim a\_n\leq b$.
 
 
