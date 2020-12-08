@@ -21,7 +21,7 @@ Please prepare this assignment using LaTeX. Consider using the template above.
   &nbsp;
   * $\lim \frac{\sqrt{9n^5}+\sqrt{14n^3}+\sqrt{6n}}{\sqrt{25n^5}+\sqrt{12n^3}+\sqrt{5n}}$  
   &nbsp;
-  * $\lim \frac{(4n^3+3n^2+2n+1)^{120}}{(3n^2+2n+1)^{72}}$
+  * $\lim \frac{(4n^3+3n^2+2n+1)^{120}}{(3n^2+2n+1)^{72}}$ (Oops this one doesn't exist, please explain why)
 3. Prove that limits are unique, that is, if $\lim a\_n=L$ and $\lim a\_n=M$ then $L=M$.
 4. Prove that if $a\_n$ is bounded (above) by $b$, and $\lim a\_n$ exists, then $\lim a\_n\leq b$.
 
