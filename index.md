@@ -1,20 +1,18 @@
-# Math 287, Fall 2020
+# Math 287, Fall 2022
 
 ## Course information
 
-Meeting times: M,W from 1:30&ndash;2:40pm  
-Textbook: Edward Scheinerman, *Mathematics: a discrete introduction*, 3rd edition (recommended)  
+Meeting times: M,W from 12:00&ndash;1:15pm  
+Textbook: Materials from several sources will be provided
 Homework: [View homework](homework)  
 Contact: `scoskey@boisestate.edu`  
 Office hours: TBA
 
 ## Course description
 
-The course title is 'Mathematical proofs and methods' and the catalog statement reads:
+Math 287 'Mathematical proofs and methods' builds on what you learned in Math 189 (or equivalent). The course is intended to support you in your transition to upper division courses by strengthening your investigative powers, refining your ability to prove statements, and improving your mathematical writing style.
 
-> An introduction to formal mathematical language, mathematical experimentation, mathematical proofs, mathematical communication, and technologies supporting the above. Core content includes sets and functions, elementary number theory and induction, and distances and topology on the real line. Additional content drawn from logic, combinatorics and probability, graph theory, and modular arithmetic.
-
-Math 287 is a successor to Math 187/189 and we will build on what you have learned there. The course is intended to support you in your transition to upper division, proof-based mathematics courses. I hope to help you hone your investigative powers, refine your ability to prove statements, and improve your mathematical writing style.
+The content of the course will include sets and functions, elementary number theory and induction, combinatorics, and distances and topology on the real number line.
 
 ### Anticipated learning outcomes
 
@@ -34,26 +32,22 @@ Math 287 is a successor to Math 187/189 and we will build on what you have learn
 
 ### Course format
 
-Materials for each week will be posted at the end of the previous week and the beginning of the week. The materials will typically include reading assignments and video lectures (posted Thursday--Saturday of the previous week), an activity assignment (posted before Monday), and a graded homework assignment (posted by Monday night).
-
-Remote class sessions will be held every Monday and Wednesday. During these sessions we will work together to explore and learn from the week's activity, and then interactively discuss the material and homework. The two class sessions will therefore be similar, and I strongly encourage you attend at least one of these sessions.
+The course will be delivered through synchronous remote class sessions. Each session will include a mixture of questions on previous material, discussion of new material, and an in-class activity.
 
 ## Grading
 
-Your grade will be based on three areas.
+### Attendance, participation, and classwork 20%
 
-### Activities 10%
+You are expected to attend remote class sessions, and to be prepared to ask questions and discuss the material. Following the discussion, we will start an in-class activity. A portion of your grade will be based on your attendance, preparedness, attention, collaboration, and completion of the activities.
 
-To earn points for activities, you must either participate actively in the remote session, or turn in your activity via Gradescope. Participating actively may include asking math questions, answering math questions, doing the same in the chat, and even just raising your hand several times. If you do not receive credit for participation, submit your activity showing substantial effort via Gradescope (Friday night of the same week). I may also collect some activities to gauge the class or provide feedback. Please keep your completed activities for study purposes.
+### Homework 40%
 
-### Homework 50%
+Homework will be assigned each week and collected the following week. Most exercises will be graded for both correcteness and mathematical style. Some will be graded for completeness only. You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
-I will collect homework assignments weekly via Gradescope (Thursday night of the following week). Most homework exercises will be graded for both correcteness and mathematical style. Some will be graded for completeness only. You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+### Take-home exams 20% x2
 
-### Assessments 20% x2
-
-Assessments will occur during the 8th week and finals week of the class. The majority of each assessment will consist of a take-home exam. I may supplement the assessments with a real-time remote component.
+Take-home exams will be given during the 8th week and the finals week of the class.
 
 ## Disclaimer
 
-This syllabus is subject to change. I may make refinements and updates in the first week of classes. While I don't expect any substantial changes, due to the unpredictable conditions of this semester, please allow for some flexibility. I will give notice before making any changes to the syllabus.
+This syllabus is subject to change. While I don't expect any substantial changes, please allow for some flexibility. I will give notice before making any changes to the syllabus.
