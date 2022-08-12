@@ -10,9 +10,9 @@ Office hours: TBA
 
 ## Course description
 
-Math 287 'Mathematical proofs and methods' builds on what you learned in Math 189 (or equivalent). The course is intended to support you in your transition to upper division courses by strengthening your investigative powers, refining your ability to prove statements, and improving your mathematical writing style.
+Math 287 'Mathematical proofs and methods' builds on what you learned in Math 189 (and its equivalents). The course is intended to support you in your transition to upper division courses by strengthening your investigative powers, refining your ability to prove statements, and improving your mathematical writing style.
 
-The content of the course will include sets and functions, elementary number theory and induction, combinatorics, and distances and topology on the real number line.
+The content of the course will include sets and functions, elementary number theory and induction, combinatorics, and limits and topology in the real number line.
 
 ### Anticipated learning outcomes
 
@@ -26,7 +26,7 @@ The content of the course will include sets and functions, elementary number the
 * Weeks 1-3: Review of induction, sets, and functions
 * Weeks 4-7: Number theory and algebra
 * Week 8: Midterm assessment
-* Weeks 9-11: Combinatorics and graph theory
+* Weeks 9-11: Combinatorics and/or graph theory
 * Weeks 12-14: Real numbers, sequences, and topology
 * Weeks 15-16: Review and final assessment
 
