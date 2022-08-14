@@ -3,7 +3,7 @@
 ## Course information
 
 Meeting times: M,W from 12:00&ndash;1:15pm  
-Textbook: Materials from several sources will be provided
+Textbook: Materials from several sources will be provided  
 Homework: [View homework](homework)  
 Contact: `scoskey@boisestate.edu`  
 Office hours: TBA
@@ -23,9 +23,9 @@ The content of the course will include sets and functions, elementary number the
 
 ### Rough plan
 
-* Weeks 1-3: Review of induction, sets, and functions
+* Weeks 1-3: Induction, sets, and functions
 * Weeks 4-7: Number theory and algebra
-* Week 8: Midterm assessment
+* Week 8: Review and midterm assessment
 * Weeks 9-11: Combinatorics and/or graph theory
 * Weeks 12-14: Real numbers, sequences, and topology
 * Weeks 15-16: Review and final assessment
@@ -36,9 +36,9 @@ The course will be delivered through synchronous remote class sessions. Each ses
 
 ## Grading
 
-### Attendance, participation, and classwork 20%
+### Attendance, participation, and activities 20%
 
-You are expected to attend remote class sessions, and to be prepared to ask questions and discuss the material. Following the discussion, we will start an in-class activity. A portion of your grade will be based on your attendance, preparedness, attention, collaboration, and completion of the activities.
+You are expected to attend remote class sessions, and to be prepared to ask questions and discuss the material. Following the discussion, we will start a group activity, which will be submitted as a group. A portion of your grade will be based on your attendance, preparedness, attention, collaboration, and completion of these activities.
 
 ### Homework 40%
 
