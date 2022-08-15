@@ -4,7 +4,8 @@
 
 Meeting times: M,W from 12:00&ndash;1:15pm  
 Textbook: Materials from several sources will be provided  
-Homework: [View homework](homework)  
+Lecture notes: Lecture notes will be made available via OneNote
+Homework: [Homework is published here](homework) and collected via Gradescope  
 Contact: `scoskey@boisestate.edu`  
 Office hours: TBA
 
