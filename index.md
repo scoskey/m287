@@ -37,11 +37,11 @@ The course will be delivered through synchronous remote class sessions. Each ses
 
 ## Grading
 
-### Attendance, participation, and activities 20%
+### Attendance, participation, and group activities 20%
 
 You are expected to attend remote class sessions, and to be prepared to ask questions and discuss the material. Following the discussion, we will start a group activity, which will be submitted as a group. A portion of your grade will be based on your attendance, preparedness, attention, collaboration, and completion of these activities.
 
-### Homework 40%
+### Homework assignments 40%
 
 Homework will be assigned each week and collected the following week. Most exercises will be graded for both correcteness and mathematical style. Some will be graded for completeness only. You are encouraged to collaborate with your peers, and you are welcome to use online resources when you are stuck (please reference). But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
