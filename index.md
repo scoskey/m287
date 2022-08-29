@@ -7,7 +7,7 @@ Textbook: Materials from several sources will be provided
 Lecture notes: Lecture notes will be made available via OneNote  
 Homework: [Homework is published here](homework) and collected via Gradescope  
 Contact: `scoskey@boisestate.edu`  
-Office hours: TBA
+Office hours: TBA, and by appointment
 
 ## Course description
 
