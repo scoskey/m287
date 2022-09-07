@@ -13,7 +13,18 @@ header-includes: |
 
 ## Week 3 (Due Tuesday, September 13)
 
-1. TBA
+1. (Similar to Scheinerman 24.23)  
+  * Let $f(x)=\abs{x}$ and $X=(-4,-2)\cup(1,3)$. Find $f(X)$.
+  * Let $f(x)=\sin(x)$ and $X=[0,\pi]$. Find $f(X)$.
+  * Let $f(x)=2^x$ and $X=[-1,1]$. Find $f(X)$.
+  * Let $f(x)=3x-1$ and $X=\set{1}$. Find $f(X)$. Compare the answer with $f(1)$.
+  * If $X$ is the domain of $f$, what is another name for $f(X)$?
+2. (Similar to Scheinerman 24.24)  
+  * Let $f(x)=\abs{x}$ and $Y=\set{-1,1,2,3}$. Find $f^{-1}(Y)$.
+  * Let $f(x)=x^2$ and $Y=[1,2]$. Find $f^{-1}(Y)$.
+  * Let $f(x)=1/(1+x^2)$ and $Y=\set{1/2}$. Find $f^{-1}(Y)$.
+  * Let $f(x)=1/(1+x^2)$ and $Y=\set{-1/2}$. Find $f^{-1}(Y)$.
+3. Let $f\colon A\to B$ be a function and $X\subset A$. Prove that $f^{-1}(f(X))\supset X$. Give an example where equality is true. Give an example where equality is not true. [Hint for the last part: use the old favorite $f(x)=x^2$.]
 
 ## Week 2 (Due Thursday, September 8)
 
