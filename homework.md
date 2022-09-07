@@ -11,7 +11,11 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
-## Week 2 (Due Tuesday, September 6)
+## Week 3 (Due Tuesday, September 13)
+
+1. TBA
+
+## Week 2 (Due Thursday, September 8)
 
 For background, read Scheinerman section 12, or MCC chapter 4.
 
