@@ -11,6 +11,10 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 4 (Due Tuesday, September 20)
+
+1. TBA
+
 ## Week 3 (Due Tuesday, September 13)
 
 1. (Similar to Scheinerman 24.23)  
