@@ -11,6 +11,10 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 5 (Due Tuesday, September 27)
+
+1. TBA
+
 ## Week 4 (Due Tuesday, September 20)
 
 1. (Scheinerman 27.2) Convert each of the following permutations to cycle notation.  
