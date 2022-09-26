@@ -11,6 +11,10 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 6 (Due Tuesday, October 4)
+
+1. TBA
+
 ## Week 5 (Due Tuesday, September 27)
 
 1. (See Scheinerman 37.2) Solve the equations in the specified $\mathbb Z\_n$.  
