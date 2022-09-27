@@ -13,7 +13,14 @@ header-includes: |
 
 ## Week 6 (Due Tuesday, October 4)
 
-1. TBA
+1. (Scheinerman 40.2) Define an operation on $\mathbb R$ by $x\cdot y=x+y-xy$. Is it closed? Associative? Commutative? Is there an identity element? If there is an identity, are there inverses? In sum, is it a group?
+2. (Scheinerman 40.9 & 17) Show that if $G$ is a group, then $(g^{-1})^{-1}=g$ and $(gh)^{-1}=h^{-1}\cdot g^{-1}$.
+<!-- 4. (Scheinerman 40.16) Show that if $G$ is a group then in the multiplication table for $G$, every element of $G$ appears in every row and every column exactly once.  
+   Give a counterexample showing that there can be such a table which doesn't arise from a group (and prove that it doesn't). -->
+<!-- 5. (Scheinerman 40.20) Let $G$ be a group of even size. Show that there exists a non-identity element $g$ such that $g^{-1}=g$. -->
+3. Show that if $a$ and $n$ have a common factor greater than $1$, then $a$ does not have an inverse in $\mathbb{Z}\_n$.
+4. Use successive division and back-solving to find the inverse of $137$ in $\mathbb{Z}\_{350}$. Verify that your answer is correct by showing that $137$ times your answer is equivalent to $1$.
+5. (Scheinerman 40.15) Use $\LaTeX$ to write your solution to this question. Show that if $G$ is a group, then the function $f(g)=g^{-1}$ is a bijection of $G$ with itself.
 
 ## Week 5 (Due Tuesday, September 27)
 
