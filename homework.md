@@ -11,6 +11,38 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 8 Take-home Midterm (Due Sunday, October 16)
+
+**Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
+
+1. Please copy the following quotation, and sign your name: "My solutions are my own original work. I completed this exam without consulting any other person. I followed Boise State University's policies on academic integrity."
+2. Use induction for each of the following.
+  * For all $n\geq1$, prove that $1+4+7+\cdots(3n-2)=\frac{3n^2-n}{2}$.
+  * Let $x\_1=1$ and $x\_{n+1}=\frac{1}{3-x\_n}$. For all $n\geq1$, prove that $x\_{n+1}\lt x\_n$.
+3. 
+  * Use a LHS/RHS argument to prove that $P(A\cap B)=P(A)\cap P(B)$.
+  * Give an example to explain why $P(A\cup B)$ is not generally equal to $P(A)\cup P(B)$.
+4. Let $f(x)=\frac{1}{x+1}$ (the domain is $\mathbb R\setminus\{-1\}).
+  * Let $Y=(-1,1)$ and find $f^{-1}(Y)$.
+  * Decide whether $f$ is injective, and prove your answer.
+5. Consider the permutation $\pi=(12)(123)(1234)(3456)$ in $S_6$.
+  * Simplify the expression to write $\pi$ in standard cycle notation (where the cycles are disjoint)
+  * Write $\pi$ in brackets notation
+  * Find the order of $\pi$
+  * Find the inverse of $\pi$ in cycle notation
+  * Find $\pi^2$ in cycle notation
+6. Use the method of repeated squaring to find the representative of $a^k\pmod{n}$.
+  * $10^{512}\pmod{13}$
+  * $10^{983}\pmod{13}$
+7. Use the method of repeated division and back-solving to find each multiplicative inverse.
+  * $3^{-1}$ in $(\mathbb Z\_{101})^\ast$
+  * $13^{-1}$ in $(\mathbb Z\_{865})^\ast$
+8. Let $G$ be a finite group.
+  * Prove that for any $g$ in $G$, the order of $g^2$ is less than or equal to the order of $g$.
+  * Give an example of a group $G$ and an element $g$ where the order of $g^2$ is less than the order of $g$.
+  * Give an example of a group $G$ and an element $g$ where the order of $g^2$ is equal to the order of $g$.
+9. Let $m$ and $n$ be natural numbers. Suppose there exist integers $x$ and $y$ such that $mx+ny=1$. Show that $m$ and $n$ have no common factors (other than $1$).
+
 ## Week 7 (Due Tuesday, October 11)
 
 1. Let $G$ be a group, let $a$ be an element of $G$, and $a^{-1}$ its inverse. Show that the order of $a$ is equal to the order of $a^{-1}$. 
