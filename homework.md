@@ -47,7 +47,7 @@ header-includes: |
 
 1. Let $G$ be a group, let $a$ be an element of $G$, and $a^{-1}$ its inverse. Show that the order of $a$ is equal to the order of $a^{-1}$. 
 2. Let $G$ be a group and let $a,b$ be elements of $G$. Show that the order of $ab$ is equal to the order of $ba$.
-3. (Scheinerman 43.1,2 modified) For all $a\in\mathbb Z\_{13}$ calculate $a^{13}$. For all $a\in\mathbb Z_\{15}^*$ calculate $a^{15}$.
+3. (Scheinerman 43.1,2 modified) For all $a\in(\mathbb Z\_{13})^\ast$ calculate $a^{13}$. For all $a\in(\mathbb Z\_\{15})^\ast$ calculate $a^{15}$.
 4. (Scheinerman 43.3,4 modified) Without any big calculations, what is $3^{205}\pmod{101}$? What is $2^{1,000,000}\pmod{101}$?
 5. Let $n$ be any integer, and let $\phi(n)$ denote the number of elements of $(\mathbb Z\_n)^\ast$. Show that if $a,n$ have no common factors, then $a^\phi(n)\equiv1\pmod{n}$.
 
