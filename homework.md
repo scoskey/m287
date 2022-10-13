@@ -22,7 +22,7 @@ header-includes: |
 3. 
   * Use a LHS/RHS argument to prove that $P(A\cap B)=P(A)\cap P(B)$.
   * Give an example to explain why $P(A\cup B)$ is not generally equal to $P(A)\cup P(B)$.
-4. Let $f(x)=\frac{1}{x+1}$ (the domain is $\mathbb R\setminus\{-1\}).
+4. Let $f(x)=\frac{1}{x+1}$ (the domain is $\mathbb R\setminus\{-1\}$).
   * Let $Y=(-1,1)$ and find $f^{-1}(Y)$.
   * Decide whether $f$ is injective, and prove your answer.
 5. Consider the permutation $\pi=(12)(123)(1234)(3456)$ in $S_6$.
