@@ -11,6 +11,18 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 9 (Due Tuesday, October 25)
+
+1. 
+  * How many ways are there to pass out 9 different candies to three children?
+  * How many ways are there to paint 15 numbered balls, each with one color chosen from red, black, green, and blue?
+  * How many ways are there to number the corners of a square, if two such numberings are considered equivalent when one is a rotation of the other?
+  * A tennis club has 12 members. How many ways are there to pair the players by twos for singles matches?
+2. (See Scheinerman 17.14) You have a set $A$ with $n$-many elements. How many $k$-element subsets $B\subset A$ are there? How many subsets $B\subset A$ are there in total? Explain your answers. Use the above reasoning to give a proof of the equation: $\sum\_{k=0}^n\binom{n}{k}=2^n$.
+3. (See Scheinerman 17.16) How many ways are there to choose a committee of $k$ people from a pool of $n$ people, with one committee member as the committee chair? Explain why the answer is $k\binom{n}{k}$. Explain why the answer is $n\binom{n-1}{k-1}$. Use the above reasoning to conclude that $k\binom{n}{k}=n\binom{n-1}{k-1}$.
+4. A monomial is a product of variables to powers. The total degree of the monomial is the sum of the powers. For example $x^2y^3z^4$ is a monomial in three variables with total degree $9$. How many monomials are there with $v$-many variables and total degree $d$? Explain your reasoning.
+5. In our data about $\left(\binom{n}{k}\right)$ we observed that $\left(\binom{n}{k}\right)=\left(\binom{n-1}{k}\right)+\left(\binom{n}{k-1}\right)$. Use reasoning about cup selection to explain why this is the case. [Hint: Consider all possibilities for the selection of $k$ of the $n$ cups. In how many possibilities is the last cup selected? In how possibilities is the last cup not selected? The total number of possibilities is the sum of these two cases.]
+
 ## Week 8 Take-home Midterm (Due Sunday, October 16)
 
 **Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
