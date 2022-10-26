@@ -11,6 +11,14 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 10 (Due Tuesday, November 1)
+
+1. How many ways are there to put $k$ unlabeled balls into $n$ labeled cups, if each cup must be used at least once? (Hint: The answer involves a multichoose.)
+2. Recall that $SS(k,2)$ is the number of ways to put $k$ labeled balls in $2$ unlabeled urns. Prove that $SS(k,2)=2^{k-1}$.
+3. Recall that $S(k,n)$ is the number of ways to put $k$ labeled balls in $n$ unlabeled urns, if every urn must be used at least once. Prove the that $S(k,n)$ satisfies the recurrence relation $S(k,n)=S(k-1,n-1)+n\cdot S(k-1,n)$.
+4. Please use $\LaTeX$ to write your solution to this question. Prove that $S(k,2)=2^{k-1}-1$.
+5. Please use $\LaTeX$ to write your solution to this question. Prove that $S(k,k-1)=\binom{k}{2}$.
+
 ## Week 9 (Due Tuesday, October 25)
 
 1. 
@@ -69,7 +77,7 @@ header-includes: |
 2. (Scheinerman 40.9 & 17) Show that if $G$ is a group, then $(g^{-1})^{-1}=g$ and $(gh)^{-1}=h^{-1}\cdot g^{-1}$.
 3. Show that if $a$ and $n$ have a common factor greater than $1$, then $a$ does not have an inverse in $\mathbb{Z}\_n$.
 4. Use successive division and back-solving to find the inverse of $137$ in $\mathbb{Z}\_{350}$. Verify that your answer is correct by showing that $137$ times your answer is equivalent to $1$.
-5. (Scheinerman 40.15) Use $\LaTeX$ to write your solution to this question. Show that if $G$ is a group, then the function $f(g)=g^{-1}$ is a bijection of $G$ with itself.
+5. (Scheinerman 40.15) Please use $\LaTeX$ to write your solution to this question. Show that if $G$ is a group, then the function $f(g)=g^{-1}$ is a bijection of $G$ with itself.
 
 ## Week 5 (Due Tuesday, September 27)
 
