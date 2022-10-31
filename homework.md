@@ -11,6 +11,10 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 11 (Due Tuesday, November 8)
+
+1. Please complete the Twelvefold Way notebook.
+
 ## Week 10 (Due Tuesday, November 1)
 
 1. How many ways are there to put $k$ unlabeled balls into $n$ labeled cups, if each cup must be used at least once? (Hint: The answer involves a multichoose.)
