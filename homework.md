@@ -18,8 +18,8 @@ header-includes: |
 ## Week 10 (Due Tuesday, November 1 - now Thursday, November 3)
 
 1. How many ways are there to put $k$ unlabeled balls into $n$ labeled cups, if each cup must be used at least once? (Hint: The answer involves a multichoose.)
-2. Recall that $SS(k,2)$ is the number of ways to put $k$ labeled balls in $2$ unlabeled urns. Prove that $SS(k,2)=2^{k-1}$.
-3. Recall that $S(k,n)$ is the number of ways to put $k$ labeled balls in $n$ unlabeled urns, if every urn must be used at least once. Prove the that $S(k,n)$ satisfies the recurrence relation $S(k,n)=S(k-1,n-1)+n\cdot S(k-1,n)$.
+2. Recall that $SS(k,2)$ is the number of ways to put $k$ labeled balls in $2$ unlabeled cups. Prove that $SS(k,2)=2^{k-1}$.
+3. Recall that $S(k,n)$ is the number of ways to put $k$ labeled balls in $n$ unlabeled cups, if every cup must be used at least once. Prove the that $S(k,n)$ satisfies the recurrence relation $S(k,n)=S(k-1,n-1)+n\cdot S(k-1,n)$.
 4. Please use $\LaTeX$ to write your solution to this question. Prove that $S(k,2)=2^{k-1}-1$.
 5. Please use $\LaTeX$ to write your solution to this question. Prove that $S(k,k-1)=\binom{k}{2}$.
 
