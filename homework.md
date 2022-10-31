@@ -15,7 +15,7 @@ header-includes: |
 
 1. Please complete the Twelvefold Way notebook.
 
-## Week 10 (Due Tuesday, November 1)
+## Week 10 (Due Tuesday, November 1 - now Thursday, November 3)
 
 1. How many ways are there to put $k$ unlabeled balls into $n$ labeled cups, if each cup must be used at least once? (Hint: The answer involves a multichoose.)
 2. Recall that $SS(k,2)$ is the number of ways to put $k$ labeled balls in $2$ unlabeled urns. Prove that $SS(k,2)=2^{k-1}$.
