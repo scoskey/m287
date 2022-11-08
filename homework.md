@@ -11,6 +11,16 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 12 (Due Tuesday, November 15)
+
+1. Solve the inequalities. Express your answers using intervals.  
+  * $\abs{x-3}\leq\abs{x-10}$
+  * $\abs{8x}\leq\abs{x^2-9}$
+2. Decide whether the statement is always true or sometimes false. Prove it or give a counterexample. $\abs{x+c}-c=\abs{x}$
+3. Decide whether the statement is always true or sometimes false. Prove it or give a counterexample. $\abs{x+y}\geq\abs{\abs{x}-\abs{y}}$
+4. For a subset $A\subset\mathbb R$, let $\mathrm{abs}(A)$ be the set $\{\abs{a}:a\in A\}$. Show that $\mathrm{abs}(A)$ has an upper bound if and only if $A$ has both a lower and upper bound.
+5. Let $A\subset\mathbb R$ and $b\in\mathbb R$. Suppose that any number greater than $b$ is an upper bound of $A$. Show that $b$ is an upper bound of $A$.
+
 ## Week 11 (Due Tuesday, November 8)
 
 1. Please complete the Twelvefold Way notebook.
