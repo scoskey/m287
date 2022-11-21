@@ -16,7 +16,7 @@ header-includes: |
 1. Suppose that $S$ has a maximum element $b$. Show that the supremum of $S$ is $b$.
 2. Use the $\epsilon$ definition of supremum to show that the supremum of the set $S=\set{x\mid x^2\lt9}$ is $b=3$.
 3. Suppose that the supremum of $S$ is $b$. Show that there exists a sequence $a\_n$ of elements of $S$ such that the supremum of $a\_n$ is also $b$.
-4. Please use $\LaTeX$ to write your solution to this question. Let x\_n and y\_n be sequences which are bounded above. Prove that $\sup(x\_n+y\_n)\leq\sup(x\_n+y\_n)$. Show with an example that we cannot replace the $\leq$ with $=$ in general.
+4. Please use $\LaTeX$ to write your solution to this question. Let x\_n and y\_n be sequences which are bounded above. Prove that $\sup(x\_n+y\_n)\leq\sup(x\_n)+\sup(y\_n)$. Show with an example that we cannot replace the $\leq$ with $=$ in general.
 5. Please use $\LaTeX$ to write your solution to this question. Show that if b is any real number, then there exists a sequence x\_n whose values are rational and whose supremum is equal to b. [Hint: Consider the decimal expansion of b.]
 
 ## Week 12 (Due Tuesday, November 15)
