@@ -11,6 +11,23 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 14 (Due Tuesday, December 6)
+
+1. For each sequence $a\_n$, proposed limit $L$, and given tolerance $\epsilon$, find a suitable $N$ that makes the definition true.  
+  * $a\_n=\frac{1}{\ln(n)}$, $L=0$, $\epsilon=0.1$
+  * $a\_n=\frac{n}{2n+1}$, $L=1/2$, $\epsilon=0.01$
+  * $a\_n=\frac{n}{2n+1}$, $L=1/2$, $\epsilon=0.001$
+2. Prove that the limit of the sequence $a\_n=\frac{2n+1}{5n+4}$ is $L=\frac25$.
+3. Prove directly from the definition of limit that if $\lim a\_n=L$ and $\lim a\_n=M$ then $L=M$. (Thus the symbol $\lim(a_n)$ is justified.)
+4. Prove the limit law $\lim(ca\_n)=c(\lim a\_n)$.
+5. Calculate the limits using the algebraic laws for limits.
+  * $\lim \frac{15n^2-1}{1+2n+5n^2}$  
+  &nbsp;
+  * $\lim \frac{\sqrt{9n^5}+\sqrt{14n^3}+\sqrt{6n}}{\sqrt{25n^5}+\sqrt{12n^3}+\sqrt{5n}}$  
+  &nbsp;
+  * $\lim \frac{(4n^3+3n^2+2n+1)^{120}}{(3n^5+2n+1)^{72}}$
+
+
 ## Week 13 (Due Tuesday, November 29)
 
 1. Suppose that $S$ has a maximum element $b$. Show that the supremum of $S$ is $b$.
