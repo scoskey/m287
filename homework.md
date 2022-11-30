@@ -17,10 +17,10 @@ header-includes: |
   * $a\_n=\frac{1}{\ln(n)}$, $L=0$, $\epsilon=0.1$
   * $a\_n=\frac{n}{2n+1}$, $L=1/2$, $\epsilon=0.01$
   * $a\_n=\frac{n}{2n+1}$, $L=1/2$, $\epsilon=0.001$
-2. Prove that the limit of the sequence $a\_n=\frac{2n+1}{5n+4}$ is $L=\frac25$.
-3. Prove directly from the definition of limit that if $\lim a\_n=L$ and $\lim a\_n=M$ then $L=M$. (Thus the symbol $\lim(a_n)$ is justified.)
-4. Prove the limit law $\lim(ca\_n)=c(\lim a\_n)$.
-5. Calculate the limits using the algebraic laws for limits.
+2. Use the $\epsilon$-definition of limit to prove that the limit of $a\_n=\frac{n}{2n+1}$ is $L=\frac12$.
+3. Use the $\epsilon$-definition of limit to prove that if $\lim a\_n=L$ and $\lim a\_n=M$ then $L=M$. (Thus the symbol $\lim(a_n)$ is justified.)
+4. Use the $\epsilon$-definition of limit to prove that $\lim(ca\_n)=c(\lim a\_n)$.
+5. Calculate the following limits using the algebraic limit laws.
   * $\lim \frac{15n^2-1}{1+2n+5n^2}$  
   &nbsp;
   * $\lim \frac{\sqrt{9n^5}+\sqrt{14n^3}+\sqrt{6n}}{\sqrt{25n^5}+\sqrt{12n^3}+\sqrt{5n}}$  
