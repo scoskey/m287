@@ -11,6 +11,29 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 15 Take-home Final (Due Monday, December 12)
+
+**Instructions** (a) You may not consult with any other person. Your work must be *completely your own*. (b) You may refer to class notes and materials freely. (c) If you use any outside resources, please provide citations. (d) To receive full credit, use only the methods *we learned in our class*. (e) To receive full credit, please show all work. 
+
+1. Please copy the following paragraph, and sign your name below it: "My solutions are my own original work. I completed this exam without consulting any other person. I followed Boise State University's policies on academic integrity."
+2. Answer each problem using one of the concepts from the twelvefold way. Please explain briefly how you know your choice is correct (e.g. what do the cups and balls represent, what are the restrictions, etc).  
+  * How many ways are there for a judging panel of $J$ many judges to vote for one of $C$ many candidates to win an award? (The voting is not anonymous.)
+  * How many ways are there to distribute $R$ many numbered raffle tickets into $E$ many identical envelopes?
+  * How many ways are there to express an integer $N$ as a sum of $m$ many nonnegative integers?
+3. Recall that $P(k,n)$ satisfies the recurrence $P(k,n)=P(k-1,n-1)+P(k-n,n)$. Use this recurrence (plus values you already know) to build up a larger table of values and calculate $P(12,6)$. Show all work regarding the calculation of the $n=6$ line of the table.
+4. Use combinatorial proof to show that the number of ways to put $k$ unlabeled balls into $n$ labeled cups, with every cup used at least once, is equal to $\binom{k-1}{n-1}$. **Hint** Lay the balls out from left to right, and for each space between balls, choose whether or not to put a divider. How many spaces are there? How many dividers do you need? How does this answer the question?
+5. Let $t(k,n)$ be the number of ways to put $k$ unlabeled balls in $n$ labeled cups, assuming each cup must contain *at least two balls*.  
+  * Collect a table of values of $t(k,n)$ for $n\leq 5$ and $k\leq 8$.
+  * In your data, you may observe the binomial coefficients appear. Prove that $t(k,n)=(\binom{n}{k-2n})$.
+6. Solve the following absolute value inequalities. Write your answers in interval notation.  
+  * $\abs{2x-3}\leq\abs{x+1}$
+  * $\abs{x^2-4}\leq\abs{x+2}$
+7. Is there a positive number $x$ such that $x\lt\frac1n$ for all $n\in\mathbb{N}$? Describe such a number or prove none exists.
+8. Let $x\_n$ be a sequence, and assume that $\lim(x\_n)^2=0$. Prove that $\lim x\_n=0$. **Hint** Given $\epsilon>0$, apply the definition of $\lim(x\_n)^2=0$ with $\epsilon'=\sqrt{\epsilon}$.
+9. Use the properties of limits to calculate the following limits.  
+  * $\lim\frac{(2n+2)(3n+1)}{12n^2+5\sqrt{n}+10}$
+  * $\lim\frac{\sqrt{3n^3}+\sqrt{4n}}{\sqrt{5n^3}+\sqrt{6n}}$
+
 ## Week 14 (Due Tuesday, December 6)
 
 1. For each sequence $a\_n$, proposed limit $L$, and given tolerance $\epsilon$, find a suitable $N$ that makes the definition true.  
