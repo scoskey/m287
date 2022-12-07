@@ -24,7 +24,7 @@ header-includes: |
 4. Use combinatorial proof to show that the number of ways to put $k$ unlabeled balls into $n$ labeled cups, with every cup used at least once, is equal to $\binom{k-1}{n-1}$. **Hint** Lay the balls out from left to right, and for each space between balls, choose whether or not to put a divider. How many spaces are there? How many dividers do you need? How does this answer the question?
 5. Let $t(k,n)$ be the number of ways to put $k$ unlabeled balls in $n$ labeled cups, assuming each cup must contain *at least two balls*.  
   * Collect a table of values of $t(k,n)$ for $n\leq 5$ and $k\leq 8$.
-  * In your data, you may observe the binomial coefficients appear. Prove that $t(k,n)=(\binom{n}{k-2n})$.
+  * In your data, you may observe the binomial coefficients appear. Prove that $t(k,n)=\left(\binom{n}{k-2n}\right)$.
 6. Solve the following absolute value inequalities. Write your answers in interval notation.  
   * $\abs{2x-3}\leq\abs{x+1}$
   * $\abs{x^2-4}\leq\abs{x+2}$
