@@ -226,19 +226,17 @@ For background, read Scheinerman section 22 book, or MCC section 3.6. You can al
 5. Using the same recursive definition as above, prove that for all $n\geq1$, we have $x_n\lt x_{n+1}$.
 
 
-<script type='text/x-mathjax-config'>
-  MathJax.Hub.Config({
-    tex2jax: {
+<script>
+  window.MathJax = {
+    tex: {
       inlineMath: [['$','$'], ['\\(','\\)']],
-      processEscapes: true
-    },
-    TeX: {
-      Macros: {
+      processEscapes: true,
+      macros: {
         set: ["{\\left\\{ #1 \\right\\}}", 1],
         abs: ["{\\left| #1 \\right|}", 1],
         lt: ["<"]
       }
     }
-  });
+  };
 </script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML'></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
